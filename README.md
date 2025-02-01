@@ -61,8 +61,12 @@ This project includes an interactive **web application** where users can:
 - 🔥 Get a prediction on the likelihood of a fire occurring
 - 📊 Visualize model performance and accuracy
 
+## 🌐 Live Demo
+🚀 The application is live at: [Click Here](https://forest-fire-prediction-kdk9.onrender.com)
+
 ## 🏗️ Contribution
 Contributions are always welcome! If you’d like to improve this project:
 - Fork the repository 🍴
 - Make your changes ✏️
 - Submit a **Pull Request** ✅
+
